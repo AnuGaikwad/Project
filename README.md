@@ -1,2 +1,2 @@
 # Project
-The DataVisualization Project for Sales with Report Summary
+The EDA Project for Sales with Report Summary
