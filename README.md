@@ -1,2 +1,2 @@
-# Project
-The EDA Project for Sales with Report Summary
+Explanatory Data Anlaysis and Visualization 
+
