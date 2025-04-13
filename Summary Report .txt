@@ -1,0 +1,47 @@
+
+
+                            Summary Report-Employee Exit Analysis & Retention Insights Dash Board
+Insights
+1. Why Did Employees Leave?
+Primary Reasons:
+
+Behavioural Issues
+Supervisor-related problems
+Harassment
+Long working hours
+Health and family issues
+Most of these reasons are controllable, suggesting internal policy or management gaps.
+
+2. Age & Reason Correlation
+Younger age groups show a rising trend in citing issues like harassment and long working hours.
+Older age groups are more affected by health and family-related concerns.
+
+3. Zone-Level Exit Trend
+West Zone has the highest exits, indicating potential regional issues like management style or work culture needing review.
+
+4. Tenure Patterns
+Most exits occurred within 6–24 months of joining.
+A significant drop in retention after 24 months suggests challenges in long-term engagement.
+
+5. Rejoin Willingness
+A positive insight: Rejoin goal was achieved, indicating some employees left on good terms and are open to returning.
+
+                                                                         Recommendations
+🔧 To Reduce Attrition:
+Improve Supervisory Behavior
+Implement leadership training and 360° feedback for managers.
+Address Harassment & Culture Issues
+Create a safer and more inclusive work environment.
+Flexible Work Hours & Health Benefits
+Help tackle stress and long working hours.
+Strengthen Engagement Programs
+Especially within the first 2 years of joining.
+Regional HR Review
+Especially in the West Zone.
+
+For Rehiring Strategy:
+Reach out to employees who left for uncontrollable or neutral reasons.
+Offer attractive comeback packages or alumni programs to rejoin.
+
+
+

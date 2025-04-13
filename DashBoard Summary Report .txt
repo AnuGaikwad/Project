@@ -1,0 +1,22 @@
+Dash Board Summary Report 
+
+
+
+Hike Received by ID (Gauge Chart)
+→ Shows the total monetary hike distributed, indicating potential retention efforts or exit compensations.
+Count of Reason for Leaving (KPI - 986)
+→ Highlights the total number of internal reasons captured for employee exits to quantify the issue.
+Count of Hike Received (KPI - 102)
+→ Displays the number of employees who received a hike, useful for correlating retention vs attrition.
+Employee Exit by Zone (Clustered Bar Chart)
+→ Compares controllable exit reasons by region to pinpoint where interventions are most needed.
+Average of Recommending Organization (Donut Chart)
+→ Visualizes employee sentiment post-exit, showing how many would still recommend the organization.
+Count of Age by Primary Reason for Leaving (Line Chart)
+→ Correlates age with specific exit reasons to uncover age-specific workforce challenges.
+Tenure in Months & Distribution by Tenure Grid (Bar with Overlays)
+→ Tracks when employees are most likely to leave, identifying vulnerable tenure periods.
+Count of Age by Controllability (Stacked Bar Chart)
+→ Categorizes exits by controllability and age group to prioritize HR focus on preventable attrition.
+Rejoin Willingness vs Retention Attempt (Triangle KPI Chart)
+→ Evaluates success in retaining or regaining talent by comparing rejoin willingness to target goals.
